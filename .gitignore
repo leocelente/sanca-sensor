@@ -1,0 +1,4 @@
+server/node_modules/
+sensor/wifi_credentials.h
+server/client_secret*
+server/token*
